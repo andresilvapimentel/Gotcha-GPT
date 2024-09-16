@@ -3,7 +3,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13769907.svg)](https://doi.org/10.5281/zenodo.13769907)
 
-Gotcha GPT ensures the integrity of academic writing in universities and publishing houses due to advances in Artificial Intelligence (AI). It discriminates AI- and human-generated english manuscripts.
+Gotcha GPT ensures the integrity of academic writing in universities and publishing houses due to advances in Artificial Intelligence (AI). It discriminates AI- and human-generated manuscripts (English and Portuguese).
 
 Gotcha GPT is a code to dicriminate AI- and human-generated english manuscripts by using classifier models (Decision trees, Extra Trees, Random Forest, and AdaBoost).
 
