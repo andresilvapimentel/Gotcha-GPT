@@ -17,7 +17,7 @@ Gotcha GPT is 100% compatible with Google Colab platform developed in Microsoft 
 
 # Documentation
 
-The complete documentation about how to run the Gotcha GPT protocol and several tutorials is being developed.
+The complete documentation about how to run the Gotcha GPT protocol and several tutorials is being developed. The article is now published on line: https://pubs.acs.org/doi/10.1021/acs.jcim.4c01203
 
 # Get help
 
