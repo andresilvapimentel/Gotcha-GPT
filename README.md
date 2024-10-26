@@ -42,7 +42,7 @@ A) Training Gotcha GPT (GotchaGPT_Train_eng.ipynb or GotchaGPT_Train_port.ipynb)
   20. It is also possible to run the Gaussian Naive Bayes model using Sklearn library to obtain the log-probability or probability estimates for each text.
   21. Do not forget to save and download text_classification.xlsx, rf_model_resample.pkl, et_model_resample.pkl, dt_model_resample.pkl, and ab_model_resample.pkl files in your computer to use them in the text detection next. Note: we already saved these files in the github repository to the user skip this training step that takes 1-2 hours depending on the web connection and if the user performs this task in a environment of execution with CPU or GPU. Using GPU, it takes only a couple minutes.
 
-B) Text detection using Gotcha GPT
+B) Text detection using Gotcha GPT (use notebooks GotchaGPT_eng.ipynb or GotchaGPT_port.ipynb)
 
   1. Install and import the required libraries.
   2. Run the function to upload and read DOCX file. Please, DO NOT use PDF files because the model result is not as good as using DOCX files.
