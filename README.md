@@ -18,7 +18,9 @@ The user may also run the notebook with minor changes on Jupiter Lab or any othe
 
 # Tutorial
 
-A) Training Gotcha GPT (GotchaGPT_Train_eng.ipynb for English texts or GotchaGPT_Train_port.ipynb for Portuguese texts)
+A) The easiest way to run Gotcha_GPT (without training) is using the notebook Gotcha_GPT_new.ipynb and uploading the text_classification_eng.xlsx file (for detecting English manuscripts) or text_classification_port.xlsx (for detecting Portuguese manuscripts). On the Runtime tab in the Google Cola platform, just run all cells and scroll down. The notebook is going to text_classification file in the third cell. Then, upload the DOCX file of real texts to be check for plagiarism using AI in the step 4 (in the end of notebook).
+
+B) Training Gotcha GPT (GotchaGPT_Train_eng.ipynb for English texts or GotchaGPT_Train_port.ipynb for Portuguese texts)
 
   1. Install and import the required libraries.
   2. Run the function to upload and read DOCX file. Please, DO NOT use PDF files because the model result is not as good as using DOCX files.
@@ -42,7 +44,7 @@ A) Training Gotcha GPT (GotchaGPT_Train_eng.ipynb for English texts or GotchaGPT
   20. It is also possible to run the Gaussian Naive Bayes model using Sklearn library to obtain the log-probability or probability estimates for each text.
   21. Do not forget to save and download text_classification.xlsx, rf_model_resample_eng.pkl, et_model_resample_eng.pkl, dt_model_resample_eng.pkl, and ab_model_resample_eng.pkl files for English texts (rf_model_resample_port.pkl, et_model_resample_port.pkl, dt_model_resample_port.pkl, and ab_model_resample_port.pkl files for Portuguese texts) in your computer to use them in the text detection next. Note: we already saved these files in the github repository to the user skip this training step that takes 1-2 hours depending on the web connection and if the user performs this task in a environment of execution with CPU or GPU. Using GPU, it takes only a couple minutes.
 
-B) Text detection using Gotcha GPT (use notebooks GotchaGPT_eng.ipynb for English texts or GotchaGPT_port.ipynb for Portuguese texts)
+C) Text detection using Gotcha GPT (use notebooks GotchaGPT_eng.ipynb for English texts or GotchaGPT_port.ipynb for Portuguese texts)
 
   1. Install and import the required libraries.
   2. Run the function to upload and read DOCX file. Please, DO NOT use PDF files because the model result is not as good as using DOCX files.
