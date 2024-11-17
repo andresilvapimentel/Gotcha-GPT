@@ -20,7 +20,7 @@ The user may also run the notebook with minor changes on Jupiter Lab or any othe
 
 A) The easiest way to run Gotcha_GPT (without training) is using the notebook Gotcha_GPT_new.ipynb and uploading the text_classification_eng.xlsx file (for detecting English manuscripts) or text_classification_port.xlsx (for detecting Portuguese manuscripts). On the Runtime tab in the Google Cola platform, just run all cells and scroll down. The notebook is going to text_classification file in the third cell. Then, upload the DOCX file of real texts to be check for plagiarism using AI in the step 4 (in the end of notebook).
 
-Or, if you prefer, you can use the notebook Gotcha_GPT_UI.ipynb with user-friendly IPython interface.
+Or, if you prefer, you can use the notebook Gotcha_GPT_UI.ipynb with user-friendly IPython interface (still underdeveloping the code).
 
 B) Training Gotcha GPT (GotchaGPT_Train_eng.ipynb for English texts or GotchaGPT_Train_port.ipynb for Portuguese texts)
 
