@@ -71,7 +71,7 @@ Gralha, João Gabriel and Pimentel, André Silva
 2024, Journal of Chemical Information and Modeling
 doi: 10.1021/acs.jcim.4c01203
 https://doi.org/10.1021/acs.jcim.4c01203
-https://pubs.acs.org/doi/10.1021/acs.jcim.4c0120
+https://pubs.acs.org/doi/10.1021/acs.jcim.4c01203
 
 # Get help
 
